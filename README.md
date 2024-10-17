@@ -4,7 +4,7 @@ I'm a 24-year-old developer from Germany, comfortable working with **PHP** and *
 
 ### What I'm working on:
 - **[d0ck.dev](https://dev.d0ck.dev/)**: A **Docker container hosting** platform offering web hosting and managed database services.
-- **[db.d0ck.dev](https://db.d0ck.dev/)**: A portable, 1-file **database editor** built with PHP and AJAX, currently hosted on **[airx.li](https://airx.li/)**.
+- **[db.d0ck.dev](https://airx.li/)**: A portable, 1-file **database editor** built with PHP and AJAX, currently hosted on **[airx.li](https://airx.li/)**.
 - **[sleepydave.xyz](https://sleepydave.xyz/)**: A flexible and fast **file hosting platform**, built using JavaScript, AJAX, and PHP.
 
 ### Tech Stack
