@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Dave! 👋
 
-<!--
-**sleepy-dave/sleepy-dave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 24-year-old developer from Germany, comfortable working with **PHP** and **JavaScript**, with several projects in **Python** under my belt. I love building efficient and scalable solutions, especially in the web hosting and file management space.
 
-Here are some ideas to get you started:
+### What I'm working on:
+- **[d0ck.dev](https://d0ck.dev/)**: A **Docker container hosting** platform offering web hosting and managed database services.
+- **[db.d0ck.dev](https://db.d0ck.dev/)**: A portable, 1-file **database editor** built with PHP and AJAX, currently hosted on **[airx.li](https://airx.li/)**.
+- **[sleepydave.xyz](https://sleepydave.xyz/)**: A flexible and fast **file hosting platform**, built using JavaScript, AJAX, and PHP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Languages**: PHP, JavaScript, Python
+- **Web**: HTML5, CSS3, Tailwind CSS, AJAX
+- **Tools**: Docker, Nginx, Traefik, Git
+
+### Find me here:
+- [Website](https://sleepydave.xyz/)
+- [Email](hi@sleepydave.xyz)
